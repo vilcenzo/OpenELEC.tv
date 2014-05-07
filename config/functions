@@ -410,5 +410,9 @@ fi
   config_message="$config_message\n $dashes$dashes$dashes"
   config_message="$config_message\n\n\n"
 
+  # Misc Utilities
+
+  config_message="$config_message\n - DVDBackup utility:\t\t\t $DVDBACKUP"
+
   echo -e $config_message
 }

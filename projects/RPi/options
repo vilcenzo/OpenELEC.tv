@@ -313,6 +313,9 @@
 # build with lm_sensors hardware monitoring support (yes / no)
   SENSOR_SUPPORT="yes"
 
+# command line utility to rip DVDs
+  DVDBACKUP="yes"
+
 # build with swap support (yes / no)
   SWAP_SUPPORT="yes"
 
